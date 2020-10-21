@@ -1,0 +1,126 @@
+.menu{
+    margin-top: 1em;
+    margin-bottom: 1.2em;
+}
+
+
+.active{
+    color: #ed564b;
+}
+
+.nav-link:hover{
+    color: #ed564b;
+}
+
+.btn{
+    border-color: white;
+    border-radius: 0%;
+    color: white;
+}
+
+.btn:hover{
+    background-color: white;
+    color: grey;
+}
+
+.carousel-control-next-icon{
+    background-color: #ed564b;
+    height: 10%;
+    width: 20%;
+}
+.carousel-control-prev-icon{
+    background-color: #ed564b;
+    height: 10%;
+    width: 20%;
+}
+.container{
+    width: 100%;
+}
+.sliders-title{
+    text-align: center;
+    font-size: 35px;
+}
+.text-sliders{
+    font-size: 20px;
+}
+
+.carousel-caption{
+   bottom: 29%;
+   width: 50%;
+   left: 28em;
+}
+.sliders{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background: #ed564b;
+    border-top: 5px solid #f96b61;
+    border-bottom: 5px solid #f96b61;
+    color: white;
+}
+
+.carousel img{
+    filter: grayscale(100%);
+}
+
+h4{
+    font-size: 15px;
+    justify-content: center;
+}
+
+body{
+    text-align: center;
+    padding-top: 1em;
+}
+
+.latest {
+    text-align: left;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+h5{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: left;
+    font-size: 15px;
+}
+
+h6{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: left;
+    font-size: 11px;
+}
+
+.bottom{
+    text-align: left;
+    padding-top: 2em;
+    background: #3b3b3b;
+    border-top: 5px solid #ed564b;
+    color: lightgrey;
+    font-size: 15px;
+}
+.bottom-h4{
+    padding-bottom: 1em;
+}
+
+a{
+    color: lightgrey;
+}
+
+a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+hr{
+    background-color: grey;
+}
+
+footer{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: left;
+    background-color: #292929;
+    color: white;
+}
